@@ -9,8 +9,11 @@ body {
     background: #cccccccc;
     padding: 30px;
 }
+.Título-principal{
+    padding: 20px;
+}
 
-h1{
+.Título-centralizado{
     text-align: center;
 }
 
@@ -33,9 +36,7 @@ em strong {
     background-color: #FFFFFF;
     padding: 20px;
 }
-h2{
-    text-align: center;
-}
+
 ul{
     display: inline-block;
     vertical-align: top;
